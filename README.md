@@ -1,6 +1,9 @@
-### Hello World, I'm Dominique! 👋
+![header](https://github.com/DMcConduit/DMcConduit/assets/59801924/df518bd4-5efc-404e-99b7-8f190462a6a3)
 
-<!--
+
+<!-- ### Hello World, I'm Dominique! 👋
+
+
 **DMcConduit/DMcConduit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
