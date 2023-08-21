@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World, I'm Dominique! 👋
 
 <!--
 **DMcConduit/DMcConduit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<strong> I'm  a self taught front-end developer with a Master's in Information Technology. I enjoy making dynamic web applications with beautiful interfaces using HTML, CSS, and Javascript.</strong>
+
+I'm currently looking for work as a web developer. Connect with me on <a href="https://www.linkedin.com/in/dominique-mcconduit/">LinkedIn!</a>
