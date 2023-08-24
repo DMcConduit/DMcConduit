@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 -->
 
 
-<strong> I'm  a self taught front-end developer with a Master's in Information Technology. I enjoy making dynamic web applications with beautiful interfaces using HTML, CSS, and Javascript.</strong>
+<strong> I'm  a self taught front-end developer with a Master's in Information Technology. I enjoy making dynamic web applications with beautiful interfaces using HTML, CSS, and JavaScript.</strong>
 
 I'm currently looking for work as a web developer. Connect with me on <a href="https://www.linkedin.com/in/dominique-mcconduit/">LinkedIn!</a>
